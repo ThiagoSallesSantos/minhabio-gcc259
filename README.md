@@ -13,4 +13,5 @@
 - 1º lugar em campeonato de programação do CEFET-MG
 <br/>
 **Imagem:**
-![Avatar](./CafeJester.png)
+![Avatar]("./CafeJester.png")
+
